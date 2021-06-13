@@ -1,4 +1,5 @@
 # xiao-ming-library
+A high-frequency UI component or function library of xiaoMing
 
 ## Project setup
 ```
